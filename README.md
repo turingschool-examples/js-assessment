@@ -34,7 +34,7 @@ Tests exist in `./tests/app/arrays.js` while the implementation file exists in `
 
 Due to the `.only` existing on the `describe` block of the arrays test, only the tests for arrays will run.
 
-Reminder, there is no use of array prototype methods including `push`, `pop`, `includes`, etc.  The only time that you can use a prototype method is `removeWithoutCopy`, where you are allowed to use `.splice()`.  You are allowed to use `for` loops as well as the spread operator.
+Reminder, there is no use of array prototype methods including `push`, `pop`, `includes`, etc.  The only time that you can use a prototype method is `removeWithoutCopy`, where you are allowed to use `.splice()`.  You are allowed to use loops of any kind such as `for` or `while` loops.  You may also use conditionals and the spread operator will be a must in some scenarios.
 
 ## I want to see the answers!
 
