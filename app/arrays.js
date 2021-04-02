@@ -14,7 +14,7 @@ exports.arraysAnswers = {
   },
 
   removeWithoutCopy: function(arr, item) {
-
+    // you may use the splice prototype method!
   },
 
   append: function(arr, item) {

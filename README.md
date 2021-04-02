@@ -36,11 +36,6 @@ Due to the `.only` existing on the `describe` block of the arrays test, only the
 
 Reminder, there is no use of array prototype methods including `push`, `pop`, `includes`, etc.  The only time that you can use a prototype method is `removeWithoutCopy`, where you are allowed to use `.splice()`.  You are allowed to use `for` loops as well as the spread operator.
 
-### Available dependencies
-
-The repo includes jQuery, Backbone, and Underscore. You can use these
-libraries when writing your solutions!
-
 ## I want to see the answers!
 
 First, bear in mind that looking up the answers is going to teach you a whole
